@@ -13,8 +13,10 @@ Outstanding Skills:
  - Effective collaboration with designers and artists to achieve stunning visual results.
  - Exceptional problem solving and debugging skills.
 ## 🛠 Skills
-Unity, C#, Unreal, C++, TDD, Firebase, Zenject, Playfab, FMOD, API REST
+Unity, C#, TDD, Firebase, Zenject, Playfab, FMOD, API REST
 
+## Most Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelnostalgic&layout=compact)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=itchio&logoColor=white)](https://feelnostalgic.itch.io)
